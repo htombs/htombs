@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Harry 👋  
 
-<!--
-**htombs/htombs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Engineer specialising in
+Python, Flask and React.
 
-Here are some ideas to get you started:
+# Projects
+- Task Manager App
+- CassetteFinder
+- AI Route Generating App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+- Docker
+- TypeScript
+- Testing (PyTest / Jest)
