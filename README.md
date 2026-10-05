@@ -46,7 +46,7 @@ My corner of the web — showcasing projects, skills, and what I'm working on.
 | Project | Description |
 |---|---|
 | 🏃 AI Running App | Route-generating running app powered by AI |
-| ✅ Task Manager | A clean, functional task management application |
+| ✅ CarAdvertCheck.com | An AI powered database deciding what is a legitimate sale or a scam |
 
 ---
 
