@@ -15,7 +15,7 @@
 
 I'm a junior developer who enjoys building practical, user-focused applications. I'm currently exploring how AI can be woven into everyday tools — from running apps to productivity software.
 
-- 🔭 Currently building an **AI-powered route-generating running app** and a **Task Manager App**
+- 🔭 Currently building an **AI-powered route-generating running app** and a **freelancing for a Somerset based web development company**
 - 🌱 Always learning — lately focused on full-stack development and AI integrations
 - 💬 Ask me about React, Python, or anything web-related
 - 📍 Based in the UK
